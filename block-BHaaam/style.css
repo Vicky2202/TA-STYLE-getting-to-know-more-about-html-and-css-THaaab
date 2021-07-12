@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(71, 71, 100);
+}
+.background {
+    background-color: rgb(95, 95, 175) ;
+}
+.bgcolor {
+    background-color: rgb(161, 161, 180);
+}
+.bg-color {
+    background-color: rgb(115, 115, 163);
+}
+.header {
+    color: red;
+}
+.btn {
+    background-color: green;
+}
